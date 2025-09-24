@@ -4,7 +4,7 @@
 
 ## 🔹 Overview
 
-This project implements a full-stack marketing campaign analytics pipeline in Python. The goal is to transform raw campaign datasets (impressions, clicks, conversions, costs, engagement metrics) into **actionable insights** that drive marketing decisions.
+This project implements a full-stack marketing campaign analytics pipeline in Python. The goal is to transform raw campaign datasets: impressions, clicks, conversions, costs, engagement metrics into **actionable insights** that drive marketing decisions.
 
 The pipeline supports:
 
