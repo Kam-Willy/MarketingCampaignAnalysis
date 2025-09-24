@@ -8,15 +8,15 @@ This project implements a full-stack marketing campaign analytics pipeline in Py
 
 The pipeline supports,
 
-* **Data ingestion & cleaning**: Handles missing or inconsistent columns e.g., Spend, Revenue.
-* **Metric engineering**: Calculates campaign KPIs such as CTR, CPC, CPA, and ROI.
-* **Exploratory Data Analysis EDA**: Summarizes campaign performance with plots and statistics.
-* **Predictive modeling**:
+* Data ingestion & cleaning: Handles missing or inconsistent columns e.g., Spend, Revenue.
+* Metric engineering: Calculates campaign KPIs such as CTR, CPC, CPA, and ROI.
+* Exploratory Data Analysis EDA: Summarizes campaign performance with plots and statistics.
+* Predictive modeling:
 
   * Classification → Predicts whether ROI will be positive.
   * Regression → Predicts ROI as a continuous value.
   * Clustering → Segments campaigns into interpretable groups.
-* **Reporting**: Generates tables, model comparisons, and cluster profiles with labels like *“High ROI – Low Cost”*.
+* Reporting: Generates tables, model comparisons, and cluster profiles with labels like *“High ROI – Low Cost”*.
 
 ---
 
@@ -24,10 +24,10 @@ The pipeline supports,
 
 Marketing teams often struggle to:
 
-* Identify **high-performing vs underperforming campaigns**.
-* Optimize **budget allocation** across channels.
-* Predict campaign success **before committing spend**.
-* Understand behavioral **segments of campaigns**.
+* Identify high-performing vs underperforming campaigns.
+* Optimize budget allocation** across channels.
+* Predict campaign success before committing spend.
+* Understand behavioral segments of campaigns.
 
 This project bridges the gap by providing:
 
