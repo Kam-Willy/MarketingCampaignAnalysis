@@ -16,7 +16,7 @@ The pipeline supports,
   * Classification → Predicts whether ROI will be positive.
   * Regression → Predicts ROI as a continuous value.
   * Clustering → Segments campaigns into interpretable groups.
-* Reporting: Generates tables, model comparisons, and cluster profiles with labels like *“High ROI – Low Cost”*.
+* Reporting: Generates tables, model comparisons, and cluster profiles with labels like High ROI – Low Cost.
 
 ---
 
