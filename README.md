@@ -118,14 +118,14 @@ flowchart LR
 
 | Approach            | Metrics                           |
 | ------------------- | --------------------------------- |
-| Classification (RF) | Accuracy=0.84, F1=0.85, AUC=0.83  |
-| Regression (GBR)    | MAE=8.50, RMSE=12.11, R²=0.61     |
-| Clustering (k=3)    | Silhouette=0.47, Profiles labeled |
+| Classification | Accuracy=0.84, F1=0.85, AUC=0.83  |
+| Regression    | MAE=8.50, RMSE=12.11, R²=0.61     |
+| Clustering    | Silhouette=0.47, Profiles labeled |
 
 📊 Visuals include:
 
-* Scatterplots (ROI vs CPC, colored by cluster).
-* Pairplots (ROI, CTR, CPC, CPA by cluster).
+* Scatterplots ROI vs CPC, colored by cluster.
+* Pairplots ROI, CTR, CPC, CPA by cluster.
 * Distribution plots for KPIs.
 
 ---
